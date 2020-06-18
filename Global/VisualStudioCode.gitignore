@@ -5,5 +5,8 @@
 !.vscode/extensions.json
 *.code-workspace
 
+# Stores VSCode versions used for testing VSCode extensions
+.vscode-test
+
 # Local History for Visual Studio Code
 .history/
